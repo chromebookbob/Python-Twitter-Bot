@@ -11,4 +11,4 @@ Prerequisites:
 Game Synonym Bot:
 -I made this as a quick experiment, it can be viewed at 
 https://twitter.com/CrappySynonyms
-It's running on a raspberry pi,and update about once an hour.
+ It's running on a raspberry pi, and it updates about once an hour.
